@@ -47,7 +47,7 @@ export default defineConfig({
       },
     }),
   ],
-  base: './',
+  base: '/cca-prep/',
   build: {
     outDir: 'dist',
   },
